@@ -22,9 +22,9 @@ source: the source folder to scan
 -a: Scans all files not just .py files
 
 Outputs:
-Creates a file names 'requirments.txt' in the source directory in the following format.
-aiofiles==23.2.1
-aiohttp==3.9.1
-pytz==2022.7
-setuptools==69.0.3
+Creates a file names 'requirments.txt' in the source directory in the following format.<br>
+aiofiles==23.2.1<br>
+aiohttp==3.9.1<br>
+pytz==2022.7<br>
+setuptools==69.0.3<br>
 
